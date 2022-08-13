@@ -1,4 +1,4 @@
-# BostonAirbnbPricePrediction
+# Boston Airbnb Price Prediction
 Predicting the price of Airbnb properties in Boston using ML techniques
 
 ### Overview:
